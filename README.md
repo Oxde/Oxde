@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">A passionate Data Scientist specializing in AI and ML workflows</h3>
+<h3 align="center">A passionate developer, who specialised in AI + ML and Web3. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaai&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitaai" alt="nikitaai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nikitaai" target="blank"><img src="https://img.shields.io/twitter/follow/nikitaai?logo=twitter&style=for-the-badge" alt="nikitaai" /></a> </p>
 
@@ -15,13 +13,11 @@
 
 - 🤝 I'm looking for help with **Distributed AI systems**
 
-- 👨‍💻 All of my projects are available at [github.com/nikitaai](github.com/nikitaai)
-
-- 📝 I regularly write articles on [medium.com/@nikitaai](medium.com/@nikitaai)
+- 👨‍💻 All of my projects are available at [github.com/oxde](github.com/oxde)
 
 - 💬 Ask me about **Claude API, ChatGPT, Gemini, LLM Optimization**
 
-- 📫 How to reach me **nikita@aiworkflows.dev**
+- 📫 How to reach me **nikmarf@icloud.com**
 
 <h3 align="left">AI APIs I Work With:</h3>
 
