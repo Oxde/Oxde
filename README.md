@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate developer, who specialised in AI + ML and Web3. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaai&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oxde&label=Profile%20views&color=0e75b6&style=flat" alt="Oxde" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nikitaai" target="blank"><img src="https://img.shields.io/twitter/follow/nikitaai?logo=twitter&style=for-the-badge" alt="nikitaai" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I'm looking for help with **Distributed AI systems**
 
-- 👨‍💻 All of my projects are available at [github.com/oxde](github.com/oxde)
+- 👨‍💻 All of my projects are available at [github.com/Oxde](github.com/Oxde)
 
 - 💬 Ask me about **Claude API, ChatGPT, Gemini, LLM Optimization**
 
@@ -24,8 +24,6 @@
 - **Anthropic Claude**: Advanced language understanding and reasoning through Claude API
 - **OpenAI ChatGPT**: GPT-3.5/GPT-4 integration for content generation and analysis
 - **Google Gemini**: Multimodal capabilities for text, image, and code analysis
-- **Stability AI**: Image generation and manipulation workflows
-- **Hugging Face**: Open-source model deployment and integration
 
 <h3 align="left">Workflow Automation:</h3>
 
