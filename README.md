@@ -66,15 +66,3 @@
 </p>
 
 <h3 align="left">AI Development Projects:</h3>
-
-- **LLM API Gateway**: Unified interface for multiple AI model APIs with optimal routing
-- **AI Agent Scheduler**: System for coordinating multiple AI agents working on complex tasks
-- **Multimodal Data Pipeline**: Processing pipeline for text, image and audio using Gemini API
-- **Claude Context Window Optimizer**: Maximizing efficiency with Claude's 100K token context
-- **n8n AI Workflow Templates**: Collection of ready-to-use AI automation workflows
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitaai&show_icons=true&locale=en&layout=compact" alt="nikitaai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitaai&show_icons=true&locale=en" alt="nikitaai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaai&" alt="nikitaai" /></p>
