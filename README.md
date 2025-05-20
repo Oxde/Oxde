@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikitaai" target="blank"><img src="https://img.shields.io/twitter/follow/nikitaai?logo=twitter&style=for-the-badge" alt="nikitaai" /></a> </p>
 
-- 🔭 I'm currently working on **AI Agent Orchestration Systems**
+- 🔭 I'm currently working on **AI systems and their integration**
 
 - 🌱 I'm focused on **AI APIs integration and workflow automation**
 
