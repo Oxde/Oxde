@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 
 - 🔧 I build and automate **crypto trading tools**, bots, and dashboards using Python, TypeScript, and Web3 frameworks  
 - 🤖 I design and prototype **AI agents** using tools like Cursor, LangChain, and Claude/OpenAI APIs  
