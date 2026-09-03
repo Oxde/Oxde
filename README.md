@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mark — Oxde 👋</h1>
+<h1 align="center">Hey, I'm Nikita — Oxde 👋</h1>
 
 <p align="center">
   <strong>Full-stack AI engineer building agent systems, automation layers, and useful AI products.</strong>
